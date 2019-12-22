@@ -3,25 +3,22 @@
 News App é um sistema desenvolvido usando os principais conceitos do framework Laravel, como: mvc, migrations, eloquent ORM, seeds, routes, blade e banco de dados mysql. 
 
 
-
 Ele simula os principais processos de gerenciamenteo de notícias, conforme as imagens abaixo:
-
 
 
 **Listagem de notícias:**
 
 ![](https://github.com/JoaoLucasXavier/newsApp/blob/master/public/img/01.png)
 
+
 **Cadastro de notícias:**
 
 ![](https://github.com/JoaoLucasXavier/newsApp/blob/master/public/img/02.png)
 
+
 **Gestão de notícias:**
 
 ![](https://github.com/JoaoLucasXavier/newsApp/blob/master/public/img/03.png)
-
-
-
 
 
 ## Clonando e configurando o projeto no seu computador
