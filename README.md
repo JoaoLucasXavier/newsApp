@@ -46,17 +46,17 @@ Abaixo veremos como você pode executar a aplicação newsApp localmente em seu 
 
 4. Configure o banco de dados mysql ou mariadb no arquivo `.env` localizado na raiz do projeto. Edite as seguintes linhas de configuração conforme o exemplo abaixo:
 
-  `DB_CONNECTION=mysql`
+    `DB_CONNECTION=mysql`
 
-  `DB_HOST=127.0.0.1`
+    `DB_HOST=127.0.0.1`
 
-  `DB_PORT=3306`
+    `DB_PORT=3306`
 
-  `DB_DATABASE=news_app`
+    `DB_DATABASE=news_app`
 
-  `DB_USERNAME=your_mysql_user_here`
+    `DB_USERNAME=your_mysql_user_here`
 
-  `DB_PASSWORD=your_mysql_password_here`
+    `DB_PASSWORD=your_mysql_password_here`
 
   
 
