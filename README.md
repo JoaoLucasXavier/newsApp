@@ -10,15 +10,15 @@ Ele simula os principais processos de gerenciamenteo de notícias, conforme as i
 
 **Listagem de notícias:**
 
-![]()
+![](https://github.com/JoaoLucasXavier/newsApp/blob/master/public/img/01.png)
 
 **Cadastro de notícias:**
 
-![]()
+![](https://github.com/JoaoLucasXavier/newsApp/blob/master/public/img/02.png)
 
 **Gestão de notícias:**
 
-![]()
+![](https://github.com/JoaoLucasXavier/newsApp/blob/master/public/img/03.png)
 
 
 
